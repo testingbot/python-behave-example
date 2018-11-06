@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/testingbot/python-behave-example.svg?branch=master)](https://travis-ci.org/testingbot/python-behave-example)
+
 ## TestingBot - Behave
 
 TestingBot provides an online grid of browsers and mobile devices to run Automated tests on via Selenium WebDriver.
