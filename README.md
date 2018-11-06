@@ -8,10 +8,9 @@ This example demonstrates how to use Python with Behave to run a test in paralle
 1. Setup
     * Clone the repo
 	* Install the dependencies `pip install -r requirements.txt`
-    ```
 
 2. TestingBot Credentials
-    * Add your TestingBot Key and Secret as environmental variables. You can find these in the [TestingBot Dashboard](https://testingbot.com/members/).
+   	Add your TestingBot Key and Secret as environmental variables. You can find these in the [TestingBot Dashboard](https://testingbot.com/members/).
     ```
     $ export TB_KEY=<your TestingBot Key>
     $ export TB_SECRET=<your TestingBot Secret>
