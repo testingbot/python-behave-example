@@ -1,0 +1,15 @@
+{
+  "key": "TB_KEY",
+  "secret": "TB_SECRET",
+
+  "capabilities": {
+    "build": "behave-testingbot",
+    "name": "single_test"
+  },
+
+  "environments": [{
+    "browser": "chrome",
+    "version": "latest",
+    "platform": "WIN10"
+  }]
+}
