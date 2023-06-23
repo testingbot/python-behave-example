@@ -20,10 +20,11 @@ This example demonstrates how to use Python with Behave to run a test in paralle
 
 * To run a single test, run `paver run single`
 * To run parallel tests, run `paver run parallel`
-    ```
+
 You will see the test result in the [TestingBot Dashboard](https://testingbot.com/members/)
 
 ### Resources
+
 ##### [TestingBot Documentation](https://testingbot.com/support/)
 
 ##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
