@@ -1,7 +1,7 @@
 ## TestingBot - Behave
 
 TestingBot provides an online grid of browsers and mobile devices to run Automated tests on via Selenium WebDriver.
-This example demonstrates how to use Python with Behave to run a test in parallel across several browsers.
+This example demonstrates how to use Python with Behave to run a test in parallel, across several browsers.
 
 ### Environment Setup
 
