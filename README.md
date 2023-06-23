@@ -27,7 +27,5 @@ You will see the test result in the [TestingBot Dashboard](https://testingbot.co
 ### Resources
 
 ##### [TestingBot Documentation](https://testingbot.com/support/)
-
 ##### [SeleniumHQ Documentation](http://www.seleniumhq.org/docs/)
-
 ##### [Behave Documentation](https://behave.readthedocs.io/en/latest/)
