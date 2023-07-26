@@ -15,7 +15,8 @@ setup(
 )
 
 def run_behave_test(config, feature, task_id=0):
-    sh('CONFIG_FILE=config/%s.json TASK_ID=%s behave features/%s.feature' % (config, task_id, feature))
+    sh('cmd /C"set CONFIG_FILE=config/%s.json && set TASK_ID=%s && behave features/%s.feature" ' % (config, task_id, feature))
+
 
 @task
 @consume_nargs(1)
